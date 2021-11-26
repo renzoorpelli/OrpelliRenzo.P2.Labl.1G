@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1637929260 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\bibliotecapersonal.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"bibilotecaPersonal.h"
+
+1637929507 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\bibilotecapersonal.h
+
+1637969122 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"files.h"
+	"controller.h"
+	"peliculas.h"
+	"ctype.h"
+	"menu.h"
+	<time.h>
+	"bibilotecaPersonal.h"
+	<string.h>
+
+1637967128 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\menu.c
+	"menu.h"
+	<stdio.h>
+	<stdlib.h>
+	"bibilotecaPersonal.h"
+
+1637968996 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\menu.h
+
+1637965345 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\files.c
+	<stdio.h>
+	<stdlib.h>
+	"files.h"
+	"parser.h"
+	"peliculas.h"
+
+1637943495 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\files.h
+	"LinkedList.h"
+
+1637766068 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\linkedlist.h
+
+1637943539 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\parser.h
+	"LinkedList.h"
+
+1637769223 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1637965042 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"peliculas.h"
+
+1637968297 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"controller.h"
+	"peliculas.h"
+	"files.h"
+	"filtros.h"
+	"menu.h"
+
+1637968820 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\controller.h
+	"LinkedList.h"
+
+1637969077 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\peliculas.h
+
+1637967373 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+	"menu.h"
+	"ctype.h"
+
+1637966394 source:c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\filtros.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"peliculas.h"
+
+1637968955 c:\users\renzo\onedrive\documentos\programacion\c\preparacionparciallabo\orpellirenzo.p2.labl.1g\filtros.h
+
