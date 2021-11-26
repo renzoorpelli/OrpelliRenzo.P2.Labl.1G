@@ -31,14 +31,14 @@ int main()
         {
         case 1:
             printf("CARGAR DATOS\n");
-            printf("AGREGAR  .CSV AL FINAL DEL NOMBRE ASIGNADO\n");
             scanf("%s",cadenaPathLoad);
+            strcat(cadenaPathLoad, ".csv");
             while(!controller_loadFromText(cadenaPathLoad,listaPeliculas))
             {
                 printf("Error durante la llamada, Ingrese (movies.csv)\n");
                 printf("CARGAR DATOS\n");
-                printf("AGREGAR  .CSV AL FINAL DEL NOMBRE ASIGNADO\n");
                 scanf("%s",cadenaPathLoad);
+                strcat(cadenaPathLoad, ".csv");
             }
             break;
         case 2:
